@@ -1,0 +1,16 @@
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\bin\Debug\netcoreapp3.1\SimFarm.exe
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\bin\Debug\netcoreapp3.1\SimFarm.deps.json
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\bin\Debug\netcoreapp3.1\SimFarm.runtimeconfig.json
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\bin\Debug\netcoreapp3.1\SimFarm.runtimeconfig.dev.json
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\bin\Debug\netcoreapp3.1\SimFarm.dll
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\bin\Debug\netcoreapp3.1\SimFarm.pdb
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.csprojAssemblyReference.cache
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.Form1.resources
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.Properties.Resources.resources
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.csproj.GenerateResource.cache
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.AssemblyInfoInputs.cache
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.AssemblyInfo.cs
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.csproj.CoreCompileInputs.cache
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.dll
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.pdb
+C:\Users\acuna\Desktop\Simfarm WinForms\SimFarm\SimFarm\obj\Debug\netcoreapp3.1\SimFarm.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\acuna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\acuna\\.nuget\\packages"
+    ]
+  }
+}
